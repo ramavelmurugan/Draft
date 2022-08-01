@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Apr 26 19:50:49 IST 2022
-http\://repo.experitest.com\:8010/Maven2/.error=Could not transfer artifact net.bytebuddy\:byte-buddy\:jar\:1.7.5 from/to Experitest.repo1 (http\://repo.experitest.com\:8010/Maven2/)\: Connect timed out
-https\://repo.maven.apache.org/maven2/.lastUpdated=1650982849142
-@default-Experitest.repo1-http\://repo.experitest.com\:8010/Maven2/.lastUpdated=1650982818127

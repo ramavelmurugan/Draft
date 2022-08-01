@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Apr 26 13:06:10 IST 2022
-http\://repo.experitest.com\:8010/Maven2/.error=Could not transfer artifact net.java.dev.jna\:jna\:pom\:4.1.0 from/to Experitest.repo1 (http\://repo.experitest.com\:8010/Maven2/)\: Connect timed out
-https\://repo.maven.apache.org/maven2/.lastUpdated=1650958570288
-@default-Experitest.repo1-http\://repo.experitest.com\:8010/Maven2/.lastUpdated=1650958569710
